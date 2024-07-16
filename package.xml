@@ -58,6 +58,6 @@
   <exec_depend>message_runtime</exec_depend>
 
   <export>
-    <controller_interface plugin="${prefix}/franka_example_controllers_plugin.xml"/>
+    <controller_interface plugin="${prefix}/ar_puppeteer_franka_plugin.xml"/>
   </export>
 </package>

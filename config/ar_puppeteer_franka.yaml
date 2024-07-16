@@ -1,5 +1,5 @@
 ar_teleop_franka_controller:
-    type: franka_example_controllers/ARTeleopFrankaController    
+    type: ar_puppeteer_franka/ARTeleopFrankaController    
     arm_id: panda
     joint_names:
         - panda_joint1

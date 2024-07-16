@@ -16,5 +16,5 @@
         args="0 0 0 0 0 0  world panda_link0 10" />
 
 
-  <!--node name="ar_puppeteer_franka" pkg="ar_puppeteer_franka" type="ar_puppeteer_franka.py" /-->
+  <node name="ar_puppeteer_franka" pkg="ar_puppeteer_franka" type="ar_puppeteer_franka.py" />
 </launch>
