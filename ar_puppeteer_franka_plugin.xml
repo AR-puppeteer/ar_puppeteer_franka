@@ -1,0 +1,10 @@
+<library path="lib/libar_puppeteer_franka">
+  
+  <class name="ar_puppeteer_franka/ARTeleopFrankaController" type="ar_puppeteer_franka::ARTeleopFrankaController" base_class_type="controller_interface::ControllerBase">
+    <description>
+      A controller for the AR puppeteer app
+    </description>
+  </class>  
+
+
+</library>

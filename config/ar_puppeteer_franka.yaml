@@ -1,0 +1,19 @@
+ar_teleop_franka_controller:
+    type: franka_example_controllers/ARTeleopFrankaController    
+    arm_id: panda
+    joint_names:
+        - panda_joint1
+        - panda_joint2
+        - panda_joint3
+        - panda_joint4
+        - panda_joint5
+        - panda_joint6
+        - panda_joint7
+    Kp: 
+        - 400 
+        - 400 
+        - 400 
+        - 30 
+        - 30 
+        - 30 
+    impedance: 1 
